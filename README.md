@@ -1,7 +1,7 @@
 ## ED-cryptfile
 ED-cryptfile is a command line utility to encrypt or decrypt the file with AES256.
 
-# USAGE(file):
+### USAGE(file):
 
 To encrypt the file
 cryptfile -e <filename>
